@@ -1,4 +1,4 @@
-# Triage Desk — All In Capital (MESA T2 · Case 3)
+# Triage Desk — All In Capital
 
 A first-pass triage system for All In Capital's inbound applications. It reads the whole pile, scores each company against the fund's thesis criterion by criterion with a source behind every claim, names what it couldn't find, pre-holds calls for promising companies, remembers partner corrections, and is backtested against the fund's 12 real decisions.
 

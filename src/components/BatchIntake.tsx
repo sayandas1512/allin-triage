@@ -31,7 +31,7 @@ interface Item {
   seconds?: number;
 }
 
-const STOP = new Set(["deck", "pitch", "form", "response", "responses", "application", "app", "final", "v1", "v2", "pdf", "copy", "mesa", "t2", "case"]);
+const STOP = new Set(["deck", "pitch", "form", "response", "responses", "application", "app", "final", "v1", "v2", "pdf", "copy", "case"]);
 
 function parseName(file: string) {
   const stem = file.replace(/\.pdf$/i, "");
